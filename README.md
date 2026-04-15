@@ -99,17 +99,14 @@
 
 <h3 align="left">📊 GitHub Stats</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abidev2003&show_icons=true&locale=en" alt="stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abidev2003&show_icons=true&locale=en" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abidev2003" height="150"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abidev2003" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abidev2003&show_icons=true&locale=en&layout=compact" alt="top languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abidev2003&layout=compact" height="150"/>
+</div>
 
 
 <h3 align="left">🔗 Connect with me:</h3>
