@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/AbiDev2003/AbiDev2003@main/github_profile_banner.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/AbiDev2003/AbiDev2003/main/github_profile_banner.gif" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Abinash Dash</h1>
